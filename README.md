@@ -1,6 +1,7 @@
 # FIM_Re-Baselining_Scripts
 Bash and PowerShell scripts for FIM Re-Baselining
 
+
 ## Table of contents
 * FIM Re-Baseline Script Goal
 * FIM Re-Baseline Pre-Requisites
